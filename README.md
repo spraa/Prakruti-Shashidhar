@@ -56,6 +56,6 @@ If you’re looking for a creative and detail-oriented software engineer to join
 
 
 ### 🌐 Explore My Work  
-- **GitHub**: [Your GitHub Profile](https://github.com/spraa)  
+- **GitHub**: [GitHub Profile](https://github.com/spraa)  
 
 Thank you for checking out my profile! 🙌
