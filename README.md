@@ -1,7 +1,7 @@
 # Hello! 👋🏻 I'm Prakruti Shashidhar
 
 ### 🌟 About Me  
-I'm a **Software Engineer** passionate about crafting visually stunning and user-friendly interfaces while ensuring seamless and efficient data management. I enjoy building solutions that merge creativity with functionality, making technology accessible and impactful for users.  
+I'm a **Software Engineer** passionate about crafting visually stunning and user-friendly interfaces while ensuring seamless and efficient data management. I enjoy building solutions that merge creativity with functionality , making technology accessible and impactful for users.  
 
 ---
 
